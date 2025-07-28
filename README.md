@@ -33,7 +33,7 @@ Then open http://localhost:5173
 ## Screenshots
 | Dashboard | Chart | Playwright Report |
 |-----------|-------|-------------------|
-| ![Dashboard](assets/dashboard.png) | ![Chart](assets/chart.png) | ![Report](assets/test-report.png) |
+| ![Dashboard](https://github.com/StefanEszt/tree-dashboard-QA/blob/main/tree-dashboard/src/assets/Screenshot1.png?raw=true) | ![Chart](https://github.com/StefanEszt/tree-dashboard-QA/blob/main/tree-dashboard/src/assets/Screenshot2.png?raw=true) | ![Report](https://github.com/StefanEszt/tree-dashboard-QA/blob/main/tree-dashboard/src/assets/Screenshot3.png?raw=true) |
 
 ---
 
