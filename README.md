@@ -30,6 +30,14 @@ npm run dev
 
 Then open http://localhost:5173
 
+## Screenshots
+| Dashboard | Chart | Playwright Report |
+|-----------|-------|-------------------|
+| ![Dashboard](assets/dashboard.png) | ![Chart](assets/chart.png) | ![Report](assets/test-report.png) |
+
+---
+
+
 ## Playwright Test Suite
 
 | Test File                    | Purpose                                                                 |
