@@ -1,0 +1,34 @@
+Name,Species,Health,CO2_kg,Address,Age,YearlyTonnes,Size,TenYearTonnes
+Chestnut Tree #2,Chestnut,Poor,10,Bartók Béla út 81, XI. Ker.,24,0.01,Medium,0.1
+Oak Tree #3,Oak,Poor,45,Helikopter utca 40, XVII. Ker.,82,0.045,Large,0.45
+Oak Tree #4,Oak,Poor,38,Rákóczi út 68, VII. Ker.,8,0.038,Large,0.38
+Pine Tree #5,Pine,Poor,41,Árpád út 38, IV. Ker.,74,0.041,Large,0.41
+Maple Tree #6,Maple,Poor,25,Lőrinc út 7, XVIII. Ker.,13,0.025,Small,0.25
+Birch Tree #8,Birch,Poor,39,Tartsay Vilmos utca 25, XXIII. Ker.,22,0.039,Small,0.39
+Oak Tree #12,Oak,Poor,37,Pasaréti út 6, II. Ker.,23,0.037,Large,0.37
+Oak Tree #18,Oak,Poor,23,Szabadföld út 92, XVI. Ker.,51,0.023,Large,0.23
+Pine Tree #24,Pine,Poor,30,Rózsakerti utca 11, XXII. Ker.,35,0.03,Large,0.3
+Chestnut Tree #28,Chestnut,Poor,46,Bartók Béla út 62, XI. Ker.,38,0.046,Medium,0.46
+Birch Tree #30,Birch,Poor,35,Temető utca 25, XXII. Ker.,18,0.035,Small,0.35
+Birch Tree #31,Birch,Poor,18,Fő tér 87, III. Ker.,77,0.018,Small,0.18
+Oak Tree #35,Oak,Poor,27,Petőfi utca 62, XIX. Ker.,70,0.027,Large,0.27
+Birch Tree #36,Birch,Poor,29,Fehérvári út 96, XI. Ker.,21,0.029,Small,0.29
+Maple Tree #37,Maple,Poor,12,Szent Erzsébet tér 77, XX. Ker.,39,0.012,Small,0.12
+Oak Tree #38,Oak,Poor,10,Haraszti út 39, XXIII. Ker.,59,0.01,Large,0.1
+Pine Tree #40,Pine,Poor,27,Fehérvári út 42, XI. Ker.,27,0.027,Large,0.27
+Pine Tree #41,Pine,Poor,24,Pasaréti út 77, II. Ker.,47,0.024,Large,0.24
+Oak Tree #51,Oak,Poor,20,Páskomliget utca 42, XV. Ker.,39,0.02,Large,0.2
+Chestnut Tree #52,Chestnut,Poor,26,Ady Endre utca 97, XXI. Ker.,21,0.026,Medium,0.26
+Oak Tree #53,Oak,Poor,57,Rózsakerti utca 87, XXII. Ker.,19,0.057,Large,0.57
+Birch Tree #58,Birch,Poor,32,Dohány utca 68, VII. Ker.,47,0.032,Small,0.32
+Maple Tree #61,Maple,Poor,40,Üllői út 8, IX. Ker.,79,0.04,Small,0.4
+Maple Tree #62,Maple,Poor,13,Lőrinc út 73, XVIII. Ker.,50,0.013,Small,0.13
+Oak Tree #65,Oak,Poor,12,Hűvösvölgyi út 80, II. Ker.,56,0.012,Large,0.12
+Chestnut Tree #68,Chestnut,Poor,53,Apor Vilmos tér 9, XII. Ker.,20,0.053,Medium,0.53
+Maple Tree #75,Maple,Poor,20,Rózsakerti utca 59, XXII. Ker.,79,0.02,Small,0.2
+Maple Tree #77,Maple,Poor,13,Tartsay Vilmos utca 79, XXIII. Ker.,78,0.013,Small,0.13
+Birch Tree #84,Birch,Poor,37,Dísz tér 62, I. Ker.,15,0.037,Small,0.37
+Oak Tree #85,Oak,Poor,27,Fehérvári út 5, XI. Ker.,22,0.027,Large,0.27
+Pine Tree #89,Pine,Poor,40,Üllői út 94, IX. Ker.,8,0.04,Large,0.4
+Pine Tree #97,Pine,Poor,55,Petőfi Sándor utca 86, V. Ker.,68,0.055,Large,0.55
+Pine Tree #98,Pine,Poor,21,Váci utca 40, V. Ker.,66,0.021,Large,0.21

@@ -1,0 +1,17 @@
+{
+  "name": "booking-react",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "run-tests-in-order": "npx playwright test tests/tree-dashboard.spec.ts tests/tree-details.spec.ts tests/co2-calculator.spec.ts --project=chromium --headed"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
