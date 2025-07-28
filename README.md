@@ -21,6 +21,15 @@
 
 ---
 
+## ▶ How to Run the App
+cd tree-dashboard
+
+npm install
+
+npm run dev
+
+Then open http://localhost:5173
+
 ## Playwright Test Suite
 
 | Test File                    | Purpose                                                                 |
